@@ -5,5 +5,5 @@
  */
 
 function confirmDelete() {
-    return confirm("Are you sure you want to delete this address?");
+    return confirm("Êtes-vous sûr de vouloir supprimer cet contact ?");
 }
